@@ -1,0 +1,23 @@
+.app-container {
+  margin-top: 50px;
+  width: 600px;
+}
+
+.app-content {
+  padding: 20px;
+  color: rgb(223, 235, 235);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.app-button {
+  margin: auto;
+}
+
+.expiration-container {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
